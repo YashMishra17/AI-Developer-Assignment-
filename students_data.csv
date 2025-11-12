@@ -1,0 +1,9 @@
+student_name,grade,class,region,homework_submitted,quiz_score,quiz_date,quiz_topic,submission_date
+John Doe,8,A,East,No,75,2025-11-05,Algebra,2025-11-02
+Jane Smith,8,A,East,Yes,92,2025-11-05,Algebra,2025-11-03
+Sam Patel,9,B,West,No,66,2025-11-06,Geometry,
+Anita Rao,8,A,East,No,88,2025-11-12,Fractions,
+Liam Wong,7,C,South,Yes,81,2025-11-10,Reading,2025-11-09
+Maya Singh,8,A,East,Yes,79,2025-11-15,Algebra,2025-11-10
+Ravi Kumar,8,B,East,No,54,2025-11-14,Algebra,
+Sara Ali,9,B,West,Yes,95,2025-11-16,Geometry,2025-11-12
